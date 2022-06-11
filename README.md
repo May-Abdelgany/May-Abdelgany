@@ -6,6 +6,7 @@
 - HTML/HTML5
 - CSS/CSS3
 - Bootstrap
+- Responsive
 - javascript
 - BOM
 - DOM
