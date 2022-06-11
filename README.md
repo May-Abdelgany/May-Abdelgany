@@ -11,7 +11,9 @@
 - DOM
 - AJAX
 - JOSN
+- plugin js
 - JQuery
+- SASS
 - Angular
 - RESET API
 
