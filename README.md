@@ -1,6 +1,6 @@
 
 <h1 align="center">May Awaad</h1>
-<p align="center">Iam software engineer full stack developer (Angular and Laravel), Iam graduated from faculty of science 2021/2022 departmnt computer science</p>
+<p align="center">Iam software engineer full stack developer (Angular and Laravel), Iam graduated from faculty of science 2021/2022 department computer science</p>
 
 ## 🌼 Features frontend
 - HTML/HTML5
